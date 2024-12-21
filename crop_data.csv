@@ -1,0 +1,4 @@
+Crop_Type,pH,Nitrogen,Phosphorus,Potassium,Temperature,Humidity,Rainfall,Soil_Type,Climate
+Wheat,6.5,0.2,0.15,0.3,20,60,500,Loamy,Temperate
+Rice,6.0,0.15,0.2,0.2,25,80,1200,Clay,Subtropical
+Maize,6.8,0.25,0.3,0.4,30,50,800,Sandy,Arid
